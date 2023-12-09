@@ -30,7 +30,7 @@ Focusing on our best-performing model, AlexNet, we applied techniques like activ
 
 ## Repository Structure
 - **Notebooks**: Separate `.ipynb` files for each model
-  - `PneumoniaDetectionUsingAlexNet.ipynb`
+  - `PneumoniaDetectionUsingAlexNet.ipynb`: this include the base transfeer learning and adding additional layers
   - `PneumoniaDetectionUsingResNet.ipynb`
   - `PneumoniaDetectionUsingDenseNet.ipynb`
   - `PneumoniaDetectionUsingVGG16.ipynb`
