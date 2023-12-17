@@ -44,18 +44,18 @@ and one for interpretation techniques (`Interpretations-Using-AlexNet.ipynb`).
 ## Conclusion
 This project demonstrates the potential of CNNs in improving pneumonia detection, especially in challenging scenarios like pediatric cases. Our exploration and comparisons of different models pave the way for more reliable and efficient diagnostic tools, potentially revolutionizing healthcare in resource-limited settings.
 
-## Reference Paper
-- https://arxiv.org/abs/1711.05225
-- https://link.springer.com/article/10.1007/s11042-023-16419-1
-- https://pubmed.ncbi.nlm.nih.gov/22009855/
-- https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst00304
-- https://www.mdpi.com/2076-3417/10/2/559
-- https://www.sciencedirect.com/science/article/pii/S2666603022000069
-- https://www.cell.com/cell/pdf/S0092-8674(18)30154-5.pdf
-- https://proceedings.mlr.press/v97/tan19a.html?ref=jina-ai-gmbh.ghost.io
-- https://ieeexplore.ieee.org/abstract/document/7935507?casa_token=X5KeNFKctucAAAAA:iQal7BP4Yip3SeRl56t0kgmRgmgrBGhZkhEqCkN6TBRZ6pFDbUIIjOcYxS29vh-nbmkPXaM0BA
-- https://captum.ai/tutorials/TorchVision_Interpret
-- https://medium.datadriveninvestor.com/visualizing-neural-networks-using-saliency-maps-in-pytorch-289d8e244ab4
+## References
+  - https://arxiv.org/abs/1711.05225
+  - https://link.springer.com/article/10.1007/s11042-023-16419-1
+  - https://pubmed.ncbi.nlm.nih.gov/22009855/
+  - https://content.iospress.com/articles/journal-of-x-ray-science-and-technology/xst00304
+  - https://www.mdpi.com/2076-3417/10/2/559
+  - https://www.sciencedirect.com/science/article/pii/S2666603022000069
+  - https://www.cell.com/cell/pdf/S0092-8674(18)30154-5.pdf
+  - https://proceedings.mlr.press/v97/tan19a.html?ref=jina-ai-gmbh.ghost.io
+  - https://ieeexplore.ieee.org/abstract/document/7935507?casa_token=X5KeNFKctucAAAAA:iQal7BP4Yip3SeRl56t0kgmRgmgrBGhZkhEqCkN6TBRZ6pFDbUIIjOcYxS29vh-nbmkPXaM0BA
+  - https://captum.ai/tutorials/TorchVision_Interpret
+  - https://medium.datadriveninvestor.com/visualizing-neural-networks-using-saliency-maps-in-pytorch-289d8e244ab4
 
 ---
 
