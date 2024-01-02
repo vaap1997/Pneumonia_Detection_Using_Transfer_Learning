@@ -1,4 +1,4 @@
-# Pneumonia Detection Using Transfer Learning: Project Overview
+# Pneumonia Detection Using Transfer Learning
 
 ### *[Medium Article](https://medium.com/@manideeptelukuntla/pneumonia-detection-using-transfer-learning-27275ce15148)*
 
