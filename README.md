@@ -2,7 +2,7 @@
 
 ### *[Medium Article](https://medium.com/@manideeptelukuntla/pneumonia-detection-using-transfer-learning-27275ce15148)*
 
-# Table of Contents
+## Table of Contents
 1. [Introduction/Overview](#1-introductionoverview)
 2. [Objective](#2-objective)
 3. [Methodology/Approach](#3-methodologyapproach)
