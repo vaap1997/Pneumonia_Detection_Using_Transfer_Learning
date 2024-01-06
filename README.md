@@ -3,7 +3,7 @@
 ### *[Medium Article](https://medium.com/@manideeptelukuntla/pneumonia-detection-using-transfer-learning-27275ce15148)*
 
 <div align="center">
-  <img src="https://github.com/vaap1997/Pneumonia_Detection_Using_Transfer_Learning/blob/main/Images/HeaderPicture.png" width="800" height="500" alt="Stock Portfolio Optimization">
+  <img src="https://github.com/vaap1997/Pneumonia_Detection_Using_Transfer_Learning/blob/main/Images/HeaderPicture.png" width="800" height="300" alt="Stock Portfolio Optimization">
 </div>
 
 ## Table of Contents
